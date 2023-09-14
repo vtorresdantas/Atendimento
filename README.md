@@ -1,20 +1,22 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Checkpoint 04 - EndPoint de atendimento
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+- Endpoint utilizado para API com Código em JavaScript referente ao checkpoint01 da matéria de microserviços
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+- Acesso HTTP: localhost:3002
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+- Criar o serviços e seus respectivos endpoints da arquitetura já
+modela por nós. A ideia é que cada microsserviço possa ter seu
+contexto delimitado, ou seja, pode ser que tenhamos mais de
+uma API.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+![image](https://github.com/vtorresdantas/CK04-MICRO/assets/62342894/9d3def71-ad08-4a94-a941-55fc51c873c5)
+
+## Integrantes
+
+- Matheus de Oliveira RM88430
+- Vitor Torres Dantas RM88415
+- Leandro Teruya RM89134
+
+
+
+
